@@ -1,6 +1,6 @@
 # Hi there, I'm slnt23 👋
 
-![Header Image](resource/header2.jpg)
+![Header Image](resource/header2.png)
 
 ### 👨‍💻 About Me
 
