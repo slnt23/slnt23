@@ -1,7 +1,5 @@
 # Hi there, I'm slnt23 👋
 
-![Header Image](resource/header2.png)
-
 ### 👨‍💻 About Me
 
 全栈开发者，专注于 **AI Agent / 后端架构 / 前端工程化**。
@@ -35,3 +33,5 @@ Full-stack developer focusing on AI Agents, backend architecture, and frontend e
 
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/cookorbook)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/slnt23)
+
+![Header Image](resource/header2.png)
