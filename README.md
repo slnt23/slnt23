@@ -13,7 +13,7 @@ Full-stack developer focusing on AI Agents, backend architecture, and frontend e
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vuedotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
@@ -34,4 +34,4 @@ Full-stack developer focusing on AI Agents, backend architecture, and frontend e
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/cookorbook)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/slnt23)
 
-![Header Image](resource/header2.png)
+![Header Image](resource/header.png)
